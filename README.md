@@ -126,7 +126,7 @@ We'll create various visualizations such as network graphs, bar charts, time ser
 - [Gemini Cookbook](https://github.com/google-gemini/cookbook?tab=readme-ov-file)
 - [Gemini Cookbook Code execution](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Code_Execution.ipynb)
 - [Gemini Cookbook Files API](https://github.com/google-gemini/cookbook/blob/main/quickstarts/File_API.ipynb)
+- [Gemini Cookbook Prompting](https://github.com/google-gemini/cookbook/tree/main/examples/prompting)
 - [generative-ai-dart](https://github.com/google-gemini/generative-ai-dart)
-- Gemini Cookbook Prompting](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Prompting.ipynb)
 - [Gemini Prompt Gallery](https://ai.google.dev/gemini-api/prompts)
 
