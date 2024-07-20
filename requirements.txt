@@ -1,0 +1,9 @@
+networkx
+matplotlib
+requests
+google-generativeai
+chromadb
+pandas
+google-generativeai
+plotly
+radon

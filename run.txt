@@ -1,0 +1,1 @@
+python codeinsight/analyze_code.py ../DeepFaceLab AIzaSyAjyedVrdn5M-d3h308bm5_7wVWEla3p-o
